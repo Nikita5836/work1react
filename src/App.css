@@ -1,0 +1,32 @@
+@font-face {
+  font-family: 'Monument Extended';
+  src: url(./Fonts/MonumentExtended-FreeForPersonalUse/MonumentExtended-Regular.otf);
+  /* font-weight: 800; */
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+}
+
+.block {
+  min-width: 1440px;
+  height: 810px;
+  background: url(./components/imgs/bg1.svg) no-repeat;
+  background-size: cover;
+  border-radius: 20px;
+  position: relative;
+  display: flex;
+  flex-direction: column;
+}
+
+Header {
+  display: flex;
+  flex-direction: row;
+}

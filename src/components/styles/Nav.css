@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Monument Extended';
+    src: url(../../Fonts/MonumentExtended-FreeForPersonalUse/MonumentExtended-Regular.otf);
+    font-weight: 800;
+}
+
+.nav {
+    display: flex;
+    flex-direction: row;
+    gap: 50px;
+}
+
+.nav a {
+    text-decoration: none;
+    font-family: 'Monument Extended';
+    color: #FFF;
+}

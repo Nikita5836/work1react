@@ -1,0 +1,24 @@
+/* .buts {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  position: absolute;
+  bottom: 0;
+} */
+
+.butsImg {
+  width: 475px;
+  height: 131px;
+}
+
+h2 {
+  font-family: Monument Extended;
+  font-size: 13px;
+  font-weight: 800;
+  line-height: 16px;
+  letter-spacing: 0em;
+  text-align: left;
+  color: white;
+  position: absolute;
+  left: 20%;
+}

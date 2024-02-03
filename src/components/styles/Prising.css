@@ -1,0 +1,7 @@
+.prising {
+  position: absolute;
+  right: 18%;
+  bottom: 22%;
+  display: flex;
+  flex-direction: row;
+}

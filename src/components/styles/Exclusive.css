@@ -1,0 +1,17 @@
+.exclusive {
+  width: Hug (74.25px);
+  height: Hug (29.25px);
+  border-radius: 9.75px;
+  gap: 7.5px;
+  font-size: 12px;
+  background-color: #eb0000;
+  color: white;
+  border: none;
+  position: absolute;
+  bottom: 80%;
+  right: 13%;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 5px;
+  padding-right: 5px;
+}

@@ -1,0 +1,5 @@
+.acount {
+    display: flex;
+    flex-direction: row;
+    gap: 44px;
+}

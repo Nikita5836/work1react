@@ -1,0 +1,27 @@
+.addButton {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+}
+
+button {
+  font-family: 'Monument Extended';
+  font-weight: 800;
+  font-size: 13px;
+}
+
+.add {
+  width: 179px;
+  height: 51px;
+  background-color: white;
+  color: black;
+  border: none;
+}
+
+.buy {
+  width: 179px;
+  height: 51px;
+  color: white;
+  background-color: rgba(0, 0, 0, 0.5);
+  border: solid white 1px;
+}

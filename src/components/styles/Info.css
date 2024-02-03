@@ -1,0 +1,22 @@
+.info {
+  display: flex;
+  flex-direction: column;
+  position: absolute;
+  right: -60%;
+}
+
+.titleInfo {
+  width: 140px;
+  font-family: 'Monument Extended';
+  font-weight: 800;
+  font-size: 14px;
+  color: white;
+}
+
+.pInfo {
+  width: 300px;
+  font-family: 'Monument Extende';
+  font-weight: 100;
+  font-size: 14px;
+  color: white;
+}
